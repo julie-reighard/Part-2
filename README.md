@@ -14,6 +14,10 @@ SELF Article: https://www.self.com/story/this-fake-instagram-account-teaches-a-s
 
 Because I chose to switch gears, here is the new storyboard/arc/wireframe that I have come up with:
 
+Link to (Sketch 1:) [https://user-images.githubusercontent.com/73350057/100825262-a9139800-3425-11eb-9ca7-91f7f24ac269.png]
+
+Link to (Sketch 2:)[
+
 I used  the sketches to guide my creation of the shorthand website with more specific data point to show to the users for feedback. 
 Here is the shorthand link: https://carnegiemellon.shorthandstories.com/scroll-down---/index.html
 Interview Process: Due to the timing of the holiday and the due date of this assignment, I asked my closet family members and roommates to critique my current story and visualization. Of those who will be critiquing is one of my fellow Heinz students (who has not taken this course), my brother who is a full time architectural engineer and part-time critic and my father who is a businessman that focuses on the facts and figures. I chose these people because they come from a variety of industries/backgrounds as well as age groups and experience. 
