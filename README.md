@@ -7,8 +7,8 @@ My basis for this visualization will be based on research articles from the NIH 
 To guide the story, I will use pictures of people who have alcohol in their photos but the photos could not suggest that the person photograph has an unhealthy relationship with alcohol. My call to action will be to challenge people to question those who may fit this profile and how to offer help whether it is resources or tips/strategies.
 An empowering statistic to lead the story is that: “One in every 12 adults abuse or depend on alcohol, and it's the third ‘leading lifestyle-related cause of death in the nation’”. I plan to use this statistic to show the gravity of alcohol dependence and its role in our lives as young adults. 
 
-Data: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432862/
-https://www.samhsa.gov/data/sites/default/files/reports/rpt29394/NSDUHDetailedTabs2019/NSDUHDetTabsSect6pe2019.htm#tab6-21b
+Data: [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4432862/)
+[SAMHSA](https://www.samhsa.gov/data/sites/default/files/reports/rpt29394/NSDUHDetailedTabs2019/NSDUHDetTabsSect6pe2019.htm#tab6-21b)
 
 SELF Article: https://www.self.com/story/this-fake-instagram-account-teaches-a-surprising-lesson-about-addiction 
 
